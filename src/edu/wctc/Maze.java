@@ -10,7 +10,7 @@ public class Maze {
     public Maze() {
         player = new Player();
 
-        Room RoomOne = new RoomOne("New Begginings");
+        Room RoomOne = new RoomOne("New Beginnings");
         Room RoomTwo = new RoomTwo("Library");
         Room RoomThree = new RoomThree("Thief's Den");
         Room InteractableRoom = new InteractableRoom("Library Attic");
